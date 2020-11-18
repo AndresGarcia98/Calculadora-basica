@@ -4,9 +4,9 @@
     "private": true,
     "scripts": {
         "start": "node ./bin/www",
-        "testAndres": "jasmine ./spec/andres_test.spec.js",
-        "testJessica": "jasmine ./spec/jessica_test.spec.js",
-        "testDavinson": "jasmine ./spec/davinson_test.spec.js"
+        "testandres": "jasmine ./spec/andres_test.spec.js",
+        "testjessica": "jasmine ./spec/jessica_test.spec.js",
+        "testdavinson": "jasmine ./spec/davinson_test.spec.js"
     },
     "dependencies": {
         "cookie-parser": "~1.4.4",
