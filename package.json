@@ -4,8 +4,7 @@
     "private": true,
     "scripts": {
         "start": "node ./bin/www",
-        "test": "jasmine ./spec/jessica_test.spec.js",
-        "prueba": "jasmine ./spec/davinson_test.spec.js"
+        "test": "jasmine ./spec",
     },
     "dependencies": {
         "cookie-parser": "~1.4.4",
